@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "typescript.tsdk": "./node_modules/typescript/lib"
+=======
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "vsicons.presets.angular": true
+>>>>>>> 4f208ec33dec0f199bee661f2888ae0ffc7eabf3
 }
